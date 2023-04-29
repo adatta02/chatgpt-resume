@@ -74,3 +74,12 @@ $ pdftotext resume.pdf -
 ]
 ```
 
+**Prompt:**
+
+> You are an AI being used inside an applicant tracking system.
+> You are parsing resume text to extract the requested field.
+>
+> Extract all the available work information as a list of JSON. Reply with only that JSON and no other text.
+>
+> For example: [{"company": "Wayne Capital Partners", "startDate": "2018-09", "endDate": "2022-05", "title": "Senior Vice President"}]
+
