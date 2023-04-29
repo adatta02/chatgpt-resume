@@ -20,8 +20,11 @@ $ pdftotext resume.pdf -
 > [[ RESUME TEXT ]]
 
 **Reply:**
-> {"name": "Patrick Bateman"}
+```json
+{"name": "Patrick Bateman"}
+```
 
+**Extract contact info**
 
 **Prompt:**
 > You are an AI being used inside an applicant tracking system.
@@ -45,6 +48,28 @@ $ pdftotext resume.pdf -
    {
       "type":"linkedin",
       "value":"linkedin.com/in/patrick-bateman/"
+   }
+]
+```
+
+**Extract education details**
+
+**Prompt:**
+> You are an AI being used inside an applicant tracking system.
+> You are parsing resume text to extract the requested field.
+>
+> Extract all the available educational information as a list of JSON. Reply with only that JSON and no other text.
+>
+> For example: [{"institution": "Harvard University", "startDate": "2018-09", "endDate": "2022-05", "degree": "Economics"}]
+
+**Reply:**
+```json
+[
+   {
+      "institution":"Harvard University",
+      "startDate":"2018-09",
+      "endDate":"2022-05",
+      "degree":"Economics"
    }
 ]
 ```
