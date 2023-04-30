@@ -23,6 +23,16 @@ The overall thinking is that:
 * ChatGPT isn't good at writing interesting prose, but it is good at writing "technically correct" paragraphs that include specific elements
 * So we should be able to use ChatGPT to write the text for a strong resume
 
+**Template**
+
+I experimented with using the free Google Docs resume templates but layouts were very brittle. Inserting text that was a 
+bit longer than the sample would cause the whole layout to break. Next, I tried looking for open source HTML templates and found [html-resume](https://github.com/BeyondCodeBootcamp/html-resume), 
+but it is also very brittle.
+
+I ended up building my own Bootstrap 5 template available in [template.html](template.html). 
+It's a two column layout that's using Google Fonts to load Karla (Sans Serif) and Merriweather (Serif) fonts.
+You can see what a PDF version looks like at [Patrick-Bateman.pdf](Patrick-Bateman.pdf). The PDF was created by
+using Chrome's standard "Print to PDF" functionality.
 
 ## Sections:
 
