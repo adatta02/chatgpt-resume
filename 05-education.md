@@ -12,5 +12,5 @@
 **Project descriptions:**
 
 **Prompt:**
-> rewrite this project description to give an interviewer openings to ask questions about the project
+> Rewrite this project description to give an interviewer openings to ask questions about the project
 > [[ original description ]]
