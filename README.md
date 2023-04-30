@@ -92,7 +92,7 @@ but impressive sounding bullets for your job duties.
 
 Here are some of the prompts I used:
 
-Prompt:
+**Prompt:**
 > You are an elite career coach helping a candidate develop their resume.
 > This is a description of the candidates job duties. Rewrite this job description to make it more appealing to an interviewer. Make it 3 bullet points.
 >
@@ -100,14 +100,45 @@ Prompt:
 >
 > [[ job description ]]
 
-Prompt:
+**Prompt:**
 > You are an elite career coach helping a candidate develop their resume. 
 > Generate a three bullet points description for a "Legal Executive Assistant" for a single attorney law firm
+
+**Sidebar**
+
+The template from above includes a right sidebar where you can list out things like certifications, relevant coursework, or software experience.
+Personally, I think it looks bad if you list every course you've ever taken or every software tool you've used. 
+Since it implies that you probably only have a passing familiarity with each of them.
+
+Here's some of the prompts I used to identify important attributes:
+
+**Prompt:**
+> You are an elite career coach helping a candidate develop their resume.
+> List these skills in the order of importance of listing them in the resume. Provide a justification for each one.
+> The candidate is optimizing to pass automated ATS filters and to highlight their unique value
+> [[ list of skills ]]
+
+**Equipment**
+
+**Prompt:**
+> You are an elite career coach helping a candidate develop their resume.
+> The candidate has experience with several pieces of equipment.
+> List these pieces of equipment in the order of importance of listing them in the resume. Provide a justification for each one.
+> The candidate is optimizing to pass automated ATS filters and to highlight their unique value
+> [[ list of equipment ]]
+
+**Software**
+
+**Prompt:**
+> You are an elite career coach helping a candidate develop their resume.
+> The candidate has experience with several software tools.
+> List these software tools in the order of importance of listing them in the resume. Provide a justification for each one.
+> The candidate is optimizing to pass automated ATS filters and to highlight their unique value
+> [[ list of software ]]
 
 
 
 ## Sections:
 
 * [Extract entities from resume text](02-extractors.md)
-* [Skills, Equipment, and Software](04-skills.md)
 * [Cover letters](07-cover-letter.md)
