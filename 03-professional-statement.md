@@ -12,3 +12,4 @@ For example:
 * Experience with a unique tool like MakerBot
 * A unique certification
 
+I did have to ask ChatGPT to refine the statement 1-2 times to get it to flow correctly.
