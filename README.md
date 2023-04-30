@@ -8,3 +8,4 @@
 * [Skills, Equipment, and Software](04-skills.md)
 * [Education](05-education.md)
 * [Work](06-work.md) 
+* [Cover letters](07-cover-letter.md)
