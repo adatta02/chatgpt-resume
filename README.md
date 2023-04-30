@@ -83,11 +83,31 @@ And rewriting blocks of text with specific goals in mind.
 
 **Work**
 
+Describing your past jobs is where ChatGPT is really going to excel. 
+You should be able to use it to rewrite existing bullet points to be more compelling or satisfy specific requirements.
+And maybe more interestingly, you could also customize the descriptions to the jobs you're applying for.
+
+You can also feed ChatGPT a job title along with some details about the company and it'll generate generic 
+but impressive sounding bullets for your job duties.
+
+Here are some of the prompts I used:
+
+Prompt:
+> You are an elite career coach helping a candidate develop their resume.
+> This is a description of the candidates job duties. Rewrite this job description to make it more appealing to an interviewer. Make it 3 bullet points.
+>
+> Description:
+>
+> [[ job description ]]
+
+Prompt:
+> You are an elite career coach helping a candidate develop their resume. 
+> Generate a three bullet points description for a "Legal Executive Assistant" for a single attorney law firm
+
 
 
 ## Sections:
 
 * [Extract entities from resume text](02-extractors.md)
 * [Skills, Equipment, and Software](04-skills.md)
-* [Work](06-work.md) 
 * [Cover letters](07-cover-letter.md)
