@@ -8,3 +8,9 @@
 > List these college courses in the order of importance of listing them in the resume. Provide a justification for each one.
 > The candidate is optimizing to pass automated ATS filters and to highlight their unique value
 > [[ list of courses ]]
+
+**Project descriptions:**
+
+**Prompt:**
+> rewrite this project description to give an interviewer openings to ask questions about the project
+> [[ original description ]]
