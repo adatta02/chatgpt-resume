@@ -1,4 +1,16 @@
-# chatgpt-resume
+# ChatGPT x Resume
+
+## What is this?
+
+This repo contains a collection of ChatGPT prompts to help you write or revise your resume. 
+It also has prompts to help you generate a cover letter for a specific job post.
+
+## Should you use this?
+
+Probably not. Definitely not without reviewing the ChatGPT output.
+
+I (Ashish) have no qualifications or relevant experience that would make me particularly good at writing or reading resumes.
+So use at your own risk.
 
 ## Sections:
 
