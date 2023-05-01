@@ -6,8 +6,6 @@ Extract plain text from a PDF with [pdftotext](https://www.xpdfreader.com/pdftot
 $ pdftotext resume.pdf -
 ```
 
-
-
 **Extract candidate name**
 
 **Prompt:**
